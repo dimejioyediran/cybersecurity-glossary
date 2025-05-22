@@ -1,0 +1,76 @@
+# 🛡️ Cybersecurity Glossary for Beginners
+
+Welcome! This glossary contains beginner-friendly explanations of key cybersecurity terms, tools, and concepts. Whether you're studying for a cert or exploring the field, this resource is designed to grow with your journey.
+
+---
+
+## 🔐 General Cybersecurity Terms
+
+- **Threat**: A potential danger that could exploit a vulnerability to cause harm.
+- **Vulnerability**: A weakness in a system that can be exploited.
+- **Exploit**: Code or techniques used to take advantage of a vulnerability.
+- **Risk**: The potential for loss or damage when a threat exploits a vulnerability.
+- **Asset**: Anything valuable that needs protection (data, hardware, etc.).
+
+---
+
+## 🌐 Networking & Protocols
+
+- **IP Address**: A unique identifier for a device on a network.
+- **DNS**: Translates domain names (like google.com) into IP addresses.
+- **OSI Model**: A framework with 7 layers that explain how data travels through a network.
+- **Firewall**: A system that filters traffic and prevents unauthorized access.
+- **TCP vs UDP**: TCP is reliable and ordered; UDP is faster but less reliable.
+
+---
+
+## 🛠️ Tools & Platforms
+
+- **Nmap**: A network scanning tool used to discover hosts and services.
+- **Wireshark**: A tool for analyzing network traffic.
+- **SIEM**: Security Information and Event Management — collects and analyzes security data.
+- **Kali Linux**: A Linux distro with tools for penetration testing and ethical hacking.
+- **TryHackMe**: A platform to learn and practice cybersecurity in virtual labs.
+
+---
+
+## 🎯 Types of Attacks
+
+- **Phishing**: Tricking people into revealing sensitive info (usually via fake emails).
+- **Brute-force**: Trying many passwords until one works.
+- **DDoS**: Overwhelming a service or website with traffic to make it crash.
+- **Man-in-the-Middle (MITM)**: Intercepting communication between two systems.
+
+---
+
+## 📚 Certifications & Learning Paths
+
+- **ISC2 Certified in Cybersecurity (CC)**: Entry-level certification for cybersecurity fundamentals.
+- **Google Cybersecurity Certificate**: Teaches basic cybersecurity tools and practices.
+- **Red Team vs Blue Team**:
+  - Red = Attack (ethical hackers)
+  - Blue = Defend (analysts, defenders)
+
+---
+
+## 🌱 Still Learning...
+
+This glossary is a work in progress! I’m currently learning:
+- Business analysis in cybersecurity
+- Project Management
+- Real-world lab skills on TryHackMe
+- Using tools like Nmap and Wireshark
+
+Feel free to suggest new terms or contribute!
+
+---
+
+## 📫 About Me
+
+- 🔗 [My GitHub](https://github.com/dimejoyediran)
+- ✉️ dimejioyemarky@gmail.com
+- 🔗 [My LinkedIn](https://www.linkedin.com/in/oladimeji-oyediran-657658238)
+
+---
+
+> 🚧 This repo is built for beginners — feel free to fork, clone, or contribute!
