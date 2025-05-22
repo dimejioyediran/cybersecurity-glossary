@@ -1,10 +1,10 @@
-# 🛡️ Cybersecurity Glossary for Beginners
+🛡️ Cybersecurity Glossary for Beginners
 
 Welcome! This glossary contains beginner-friendly explanations of key cybersecurity terms, tools, and concepts. Whether you're studying for a cert or exploring the field, this resource is designed to grow with your journey.
 
 ---
 
-## 🔐 General Cybersecurity Terms
+🔐 General Cybersecurity Terms
 
 - **Threat**: A potential danger that could exploit a vulnerability to cause harm.
 - **Vulnerability**: A weakness in a system that can be exploited.
@@ -14,7 +14,7 @@ Welcome! This glossary contains beginner-friendly explanations of key cybersecur
 
 ---
 
-## 🌐 Networking & Protocols
+🌐 Networking & Protocols
 
 - **IP Address**: A unique identifier for a device on a network.
 - **DNS**: Translates domain names (like google.com) into IP addresses.
@@ -24,7 +24,7 @@ Welcome! This glossary contains beginner-friendly explanations of key cybersecur
 
 ---
 
-## 🛠️ Tools & Platforms
+🛠️ Tools & Platforms
 
 - **Nmap**: A network scanning tool used to discover hosts and services.
 - **Wireshark**: A tool for analyzing network traffic.
@@ -34,7 +34,7 @@ Welcome! This glossary contains beginner-friendly explanations of key cybersecur
 
 ---
 
-## 🎯 Types of Attacks
+🎯 Types of Attacks
 
 - **Phishing**: Tricking people into revealing sensitive info (usually via fake emails).
 - **Brute-force**: Trying many passwords until one works.
@@ -43,7 +43,7 @@ Welcome! This glossary contains beginner-friendly explanations of key cybersecur
 
 ---
 
-## 📚 Certifications & Learning Paths
+📚 Certifications & Learning Paths
 
 - **ISC2 Certified in Cybersecurity (CC)**: Entry-level certification for cybersecurity fundamentals.
 - **Google Cybersecurity Certificate**: Teaches basic cybersecurity tools and practices.
@@ -53,15 +53,13 @@ Welcome! This glossary contains beginner-friendly explanations of key cybersecur
 
 ---
 
-## 🌱 Still Learning...
+🌱 Still Learning...
 
 This glossary is a work in progress! I’m currently learning:
 - Business analysis in cybersecurity
 - Project Management
 - Real-world lab skills on TryHackMe
 - Using tools like Nmap and Wireshark
-
-Feel free to suggest new terms or contribute!
 
 ---
 
@@ -73,4 +71,4 @@ Feel free to suggest new terms or contribute!
 
 ---
 
-> 🚧 This repo is built for beginners — feel free to fork, clone, or contribute!
+> 🚧 This repo is built for beginners — feel free to suggest new terms, fork, clone, or contribute!
