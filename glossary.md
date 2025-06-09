@@ -83,12 +83,22 @@ Career Paths to Explore:
 ---
 
 🌱 Still Learning...
+
+This glossary is a work in progress! I’m currently learning:
 - Business analysis in cybersecurity
 - Project Management
 - Real-world lab skills on TryHackMe
 - Using tools like Nmap and Wireshark
 - Basic Python and SQL
 - Foundational networking concepts
+
+---
+
+📫 About Me
+
+- GitHub: https://github.com/dimejoyediran
+- Email: dimejioyemarky@gmail.com
+- LinkedIn: https://www.linkedin.com/in/oladimeji-oyediran-657658238
 
 ---
 
